@@ -23,7 +23,7 @@ Foi utilizado o Unform para criar o fomulário, Yup e regex para validar os dado
 styled-components para estilização e o axios para fazer o envio dos dados.
 
 
-<br />
+
 ## :rocket: Tecnologias
 -  [ReactJS](https://reactjs.org/)
 -  [Unform](https://github.com/Rocketseat/unform)
