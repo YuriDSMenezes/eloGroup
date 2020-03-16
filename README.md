@@ -6,6 +6,17 @@ Simples formulário para envio de dados com React JS.
 
 <br />
 
+### Hierarquia dos arquivos 
+```
+Assets - Logo da organização
+
+Components - Componente principal da aplicação com a estilização da página
+
+Services -  Cria a baseURL com o axios para fazer a requisição
+
+styles - Estilização global
+```
+
 ## Instalando e começando.
 ```
 Nome na plataforma gupy : yuri
@@ -18,6 +29,9 @@ Instale as dependências do projeto -> yarn add.
 Rode a aplicação com um yarn start e aguarde carregar.
 ```
 <br />
+
+
+
 
 Foi utilizado o Unform para criar o fomulário, Yup e regex para validar os dados de entrada, <br />
 styled-components para estilização e o axios para fazer o envio dos dados.
